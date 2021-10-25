@@ -25,7 +25,7 @@
         android:layout_width="290dp"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="@string/instagram"
+        android:text="@string/insta"
         android:textColor="@color/white"
         android:textSize="50dp"
         android:textStyle="italic"
